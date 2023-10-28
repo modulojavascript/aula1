@@ -9,4 +9,3 @@
 ![Exemplo de imagem](./materialaula1/8.png)
 ![Exemplo de imagem](./materialaula1/9.png)
 ![Exemplo de imagem](./materialaula1/10.png)
-![Exemplo de imagem](./materialaula1/11.png)
