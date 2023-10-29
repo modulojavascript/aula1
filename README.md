@@ -29,3 +29,18 @@
 ![Exemplo de imagem](./materialaula2/16.png)
 ![Exemplo de imagem](./materialaula2/17.png)
 ![Exemplo de imagem](./materialaula2/18.png)
+
+*Material de apoio aula 3*
+![Exemplo de imagem](./materialaula3/1.png)
+![Exemplo de imagem](./materialaula3/2.png)
+![Exemplo de imagem](./materialaula3/3.png)
+![Exemplo de imagem](./materialaula3/4.png)
+![Exemplo de imagem](./materialaula3/5.png)
+![Exemplo de imagem](./materialaula3/6.png)
+![Exemplo de imagem](./materialaula3/7.png)
+![Exemplo de imagem](./materialaula3/8.png)
+![Exemplo de imagem](./materialaula3/9.png)
+![Exemplo de imagem](./materialaula3/10.png)
+![Exemplo de imagem](./materialaula3/11.png)
+![Exemplo de imagem](./materialaula3/12.png)
+
