@@ -1,4 +1,4 @@
- *Material de apoio Aula 1*
+ # Material de apoio Aula 1
 ![Exemplo de imagem](./materialaula1/1.png)
 ![Exemplo de imagem](./materialaula1/2.png)
 ![Exemplo de imagem](./materialaula1/3.png)
@@ -10,7 +10,7 @@
 ![Exemplo de imagem](./materialaula1/9.png)
 ![Exemplo de imagem](./materialaula1/10.png)
 
-*Material de apoio Aula 2*
+# Material de apoio Aula 2
 ![Exemplo de imagem](./materialaula2/1.png)
 ![Exemplo de imagem](./materialaula2/2.png)
 ![Exemplo de imagem](./materialaula2/3.png)
@@ -30,7 +30,7 @@
 ![Exemplo de imagem](./materialaula2/17.png)
 ![Exemplo de imagem](./materialaula2/18.png)
 
-*Material de apoio aula 3*
+# Material de apoio aula 3
 ![Exemplo de imagem](./materialaula3/1.png)
 ![Exemplo de imagem](./materialaula3/2.png)
 ![Exemplo de imagem](./materialaula3/3.png)
@@ -43,4 +43,16 @@
 ![Exemplo de imagem](./materialaula3/10.png)
 ![Exemplo de imagem](./materialaula3/11.png)
 ![Exemplo de imagem](./materialaula3/12.png)
+
+# Material de apoio aula 4
+
+![Exemplo de imagem](./materialaula4/1.png)
+![Exemplo de imagem](./materialaula4/2.png)
+![Exemplo de imagem](./materialaula4/3.png)
+![Exemplo de imagem](./materialaula4/4.png)
+![Exemplo de imagem](./materialaula4/5.png)
+![Exemplo de imagem](./materialaula4/6.png)
+![Exemplo de imagem](./materialaula4/7.png)
+![Exemplo de imagem](./materialaula4/8.png)
+![Exemplo de imagem](./materialaula4/9.png)
 
