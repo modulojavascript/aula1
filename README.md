@@ -69,4 +69,20 @@
 ![Exemplo de imagem](./materialaula5/10.png)
 ![Exemplo de imagem](./materialaula5/11.png)
 
-
+# Material de apoio aula 7
+![Exemplo de imagem](./materialaula7/1.png)
+![Exemplo de imagem](./materialaula7/2.png)
+![Exemplo de imagem](./materialaula7/3.png)
+![Exemplo de imagem](./materialaula7/4.png)
+![Exemplo de imagem](./materialaula7/5.png)
+![Exemplo de imagem](./materialaula7/6.png)
+![Exemplo de imagem](./materialaula7/7.png)
+![Exemplo de imagem](./materialaula7/8.png)
+![Exemplo de imagem](./materialaula7/9.png)
+![Exemplo de imagem](./materialaula7/10.png)
+![Exemplo de imagem](./materialaula7/11.png)
+![Exemplo de imagem](./materialaula7/12.png)
+![Exemplo de imagem](./materialaula7/13.png)
+![Exemplo de imagem](./materialaula7/14.png)
+![Exemplo de imagem](./materialaula7/15.png)
+![Exemplo de imagem](./materialaula7/16.png)
