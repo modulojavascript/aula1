@@ -86,3 +86,17 @@
 ![Exemplo de imagem](./materialaula7/14.png)
 ![Exemplo de imagem](./materialaula7/15.png)
 ![Exemplo de imagem](./materialaula7/16.png)
+
+# Material de apoio aula 8
+![Exemplo de imagem](./materialaula8/1.png)
+![Exemplo de imagem](./materialaula8/2.png)
+![Exemplo de imagem](./materialaula8/3.png)
+![Exemplo de imagem](./materialaula8/4.png)
+![Exemplo de imagem](./materialaula8/5.png)
+![Exemplo de imagem](./materialaula8/6.png)
+![Exemplo de imagem](./materialaula8/7.png)
+![Exemplo de imagem](./materialaula8/8.png)
+![Exemplo de imagem](./materialaula8/9.png)
+![Exemplo de imagem](./materialaula8/10.png)
+![Exemplo de imagem](./materialaula8/11.png)
+![Exemplo de imagem](./materialaula8/12.png)
